@@ -26,7 +26,7 @@
 - [Inception](https://github.com/43ougy/Inception)
 - [Transcendence](https://github.com/43ougy/Transcendence) :
   
-  <img src="https://github.com/user-attachments/assets/c5751b16-b38a-4144-8593-bca54a5dd338" width="600"/>
+  [<img src="https://github.com/user-attachments/assets/c5751b16-b38a-4144-8593-bca54a5dd338" width="600"/>](https://github.com/43ougy/Transcendence)
 
 
 ## STATISTICS
